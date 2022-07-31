@@ -1,5 +1,5 @@
-# Social Distancing
-This repository implements the social distance violation detection to reduce the spread of COVID-19 and other diseases by ensuring social distancing in public places including shopping malls, hospitals and restaurants.
+# Run speed detection on any video
+This repo uses low power object detection and transforms 
 
 # Demo
 A demo video can be found at https://youtu.be/gXX8fuQbUFI. 
